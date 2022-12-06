@@ -1,4 +1,5 @@
 Part 2
+
 In Part 2 of the lab, we implemented a K-Means algorithm using PySpark to find the probability of a black vehicle getting a ticket that has parked illegally at 34510, 10030, and 34050 (street codes). (Very rough prediction)
 1.	Initializing spark session
 2.	We loaded the CSV file as DataFrame and filtered it according to the color black. We selected the columns of Street code and then transformed the filtered dataframe into RDD.
