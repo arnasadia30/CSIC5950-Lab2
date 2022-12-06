@@ -1,4 +1,5 @@
 Part 1
+
 For each player, we define the comfortable zone of shooting as a matrix of,
 {SHOT DIST, CLOSE DEF DIST, SHOT CLOCK}
 In part 1 of the lab, we implemented a K-Means algorithm to classify each player’s records into 4 comfortable zones. Considering the hit rate, we also figured out which zone is the best for James Harden, Chris Paul, Stephen Curry, and Lebron James.
